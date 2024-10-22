@@ -1,7 +1,7 @@
 # Practica Entregable 2 - Tiempo Real
 
-Este repositorio contiene el código de la práctica guiada "Tiempo Real" de la
-asignatura Software Avanzado Radar (SARA) del Master en Sistemas Radar.
+Este repositorio contiene el código de la práctica entregable "Tiempo Real" 
+de la asignatura Software Avanzado Radar (SARA) del Master en Sistemas Radar.
 
 El repositorio contiene las siguientes carpetas:
 - `app`: contiene el archivo main.py para ejecutar la aplicación y la carpeta
@@ -65,4 +65,24 @@ python3 app/main.py
 ```
 
 ## Objetivos a realizar
-1. **Visualización de las detecciones de los radares**
+1. **Visualización de las detecciones de los radares** El objetivo principal 
+de esta práctica entregable es la visualización de las detecciones de 
+generadas por los distintos radares. Para esto se pide añadir una gráfica 
+extra en la misma ventana donde se puede visualizar la animación de los puntos 
+y radares en movimiento. Esta nueva gráfica no necesita animación, únicamente 
+debe reflejar el conjunto completo de detecciones de los radares.
+
+2. **Opcional** Adicionalmente al objetivo principal se plantea a los alumnos 
+añadir modificaciones sobre posteriores al objetivo. Estas modificaciones 
+adicionales serán valoradas positivamente en la nota final de la práctica 
+pudiendo así de esta forma optar al 10. Se valorará la originalidad y 
+complejidad de las mejoras. A continuación se proponen posibles modificaciones 
+que incluir aunque se permite una elección libre y creativa.
+   - Código de colores para las detecciones en función del radar origen.
+   - Implementación visual de la 
+   [Práctica Entregable 1](https://github.com/SARA-MSRA-UPM/PE1_concurrencia) 
+   con el algoritmo de búsqueda de puntos comunes o clusteres.
+   - Nueva gráfica que muestre el número de detecciones de los radares en una 
+   unidad de tiempo.
+   - Inclusión de una leyenda de colores en la ventana de visualización.
+   - Creación de animaciones en formato `GIF`.
