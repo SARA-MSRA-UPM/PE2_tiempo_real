@@ -1,0 +1,3 @@
+matplotlib
+svgpathtools
+PyQt6
