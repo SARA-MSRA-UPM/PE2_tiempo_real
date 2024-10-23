@@ -28,6 +28,7 @@ class MapView:
         self._axes.clear()  # Clear the axes for the new frame
         self._axes.set_xlim(0, self._width)
         self._axes.set_ylim(0, self._height)
+        self._axes.set_title("Map View")
 
         for radar in radars:
             self._draw_radar_and_detection_range(radar)

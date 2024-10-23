@@ -70,14 +70,16 @@ de esta práctica entregable es la visualización de las detecciones de
 generadas por los distintos radares. Para esto se pide añadir una gráfica 
 extra en la misma ventana donde se puede visualizar la animación de los puntos 
 y radares en movimiento. Esta nueva gráfica no necesita animación, únicamente 
-debe reflejar el conjunto completo de detecciones de los radares.
+debe reflejar el conjunto completo de detecciones de los radares. (mostrar cada
+   punto que llegue).
 
-2. **Opcional** Adicionalmente al objetivo principal se plantea a los alumnos 
-añadir modificaciones sobre posteriores al objetivo. Estas modificaciones 
-adicionales serán valoradas positivamente en la nota final de la práctica 
-pudiendo así de esta forma optar al 10. Se valorará la originalidad y 
-complejidad de las mejoras. A continuación se proponen posibles modificaciones 
-que incluir aunque se permite una elección libre y creativa.
+![final state](./static/final_state.jpeg)
+
+2. **Opcional** Adicionalmente al objetivo principal se plantea a los alumnos
+añadir modificaciones. Estas modificaciones adicionales serán valoradas
+positivamente en la nota final. Se valorará la originalidad y complejidad de
+las mejoras. A continuación se proponen posibles modificaciones que incluir
+aunque se permite una elección libre y creativa.
    - Código de colores para las detecciones en función del radar origen.
    - Implementación visual de la 
    [Práctica Entregable 1](https://github.com/SARA-MSRA-UPM/PE1_concurrencia) 
