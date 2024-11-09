@@ -73,7 +73,7 @@ y radares en movimiento. Esta nueva gráfica no necesita animación, únicamente
 debe reflejar el conjunto completo de detecciones de los radares. (mostrar cada
    punto que llegue).
 
-![final state](./static/final_state.jpeg)
+![final state](static/final_state.jpeg)
 
 2. **Opcional** Adicionalmente al objetivo principal se plantea a los alumnos
 añadir modificaciones. Estas modificaciones adicionales serán valoradas
