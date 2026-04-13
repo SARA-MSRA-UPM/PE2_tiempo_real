@@ -17,7 +17,7 @@ class Point(Thread):
     def run(self):
         while not self._stop_event.is_set():
             self.update()
-            sleep(1/10)  # 10 FPS
+            sleep(1/30)  # 30 FPS
 
     def update(self):
         pass

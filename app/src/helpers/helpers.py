@@ -1,8 +1,7 @@
 # external imports
 from math import cos, sin, radians
 # internal imports
-from ..actors.points.point import Point
-# from ..actors.radar import Radar
+from src.actors.points.point import Point
 
 
 def radar_detection_to_point(
