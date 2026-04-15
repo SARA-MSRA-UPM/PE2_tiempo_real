@@ -94,11 +94,7 @@ if __name__ == '__main__':
    
     # Start the animation
     radars_view.animate(radars, points)
-    
-    # Processing the animation
-    print("Processig the animation GIF")
-    radars_view.save_animation('./radars_view.gif')
-    
+       
     # Show the plot
     print("Ploting the animation")
     plt.show()
